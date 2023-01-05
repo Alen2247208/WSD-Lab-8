@@ -1,0 +1,7 @@
+{"records":[ 
+{"id":1,"name":"Fast and Furious","desc":"Denzel Washington","rating":"3"},
+{"id":2,"name":"Black Adam","desc":"Tom Hanks","rating":"3.5"},
+{"id":3,"name":"Avatar","desc":"Marilyn Monroe","rating":"3"},
+{"id":4,"name":"Avengers Endgame","desc":"Jack Nicholson","rating":"4"},
+{"id":5,"name":"Thor Ragnarok","desc":"Marlon Brando","rating":"4"},
+{"id":6,"name":"Conjuring","desc":"Robert De Niro","rating":"3"}]}
